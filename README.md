@@ -1,5 +1,11 @@
 # Extra Credit for PLC
 
+Team: 
+
+Abbaas Alif
+Michelle Serrano 
+Chihumeya Eresia-Eke
+
 Where a your specification document must fully explain the language you have designed:
 Description of every data type that is provided with the language
 Int: [0-9][0-9]*'
