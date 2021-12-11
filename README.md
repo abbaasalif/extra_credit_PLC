@@ -1,11 +1,13 @@
 # Extra Credit for PLC
 
-Team: 
+## Team: 
 
 Abbaas Alif
+<br>
 Michelle Serrano 
+<br>
 Chihumeya Eresia-Eke
-
+<br>
 --------------------------------
 
 Where a your specification document must fully explain the language you have designed:
