@@ -8,7 +8,7 @@ Michelle Serrano
 <br><br>
 Chihumeya Eresia-Eke
 <br><br>
---------------------------------
+---------------------------------
 
 Where a your specification document must fully explain the language you have designed:
 Description of every data type that is provided with the language
