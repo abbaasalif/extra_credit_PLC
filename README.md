@@ -21,7 +21,7 @@ Floats2: '\.\d+'
 
 Instructions of how to create valid code.
 
-<factor> --> identifier | float | int
+\<factor\> --\> identifier | float | int
 
 <term> --> <factor>| <term> / factor | <term> * <factor> | <term> % <factor>
 <expression> -->  <term> | <expression> + <term> | <expression> - <term>
